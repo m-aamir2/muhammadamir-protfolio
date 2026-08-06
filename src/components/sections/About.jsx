@@ -81,7 +81,7 @@ const About = () => {
                 <div className='inline-flex items-center gap-2.5 px-5 py-2.5 border border-primary/30 bg-primary/10 rounded-full w-fit'>
                   <Code2 className='w-4 h-4 text-primary' />
                   <span className='text-sm text-primary font-medium'>
-                    Senior Frontend Developer
+                     Frontend Developer
                   </span>
                   <Sparkles className='w-4 h-4 text-primary' />
                 </div>
@@ -125,7 +125,7 @@ const About = () => {
                   className='inline-flex items-center gap-3 bg-white hover:bg-green-500 hover:text-white active:bg-green-500 active:text-white text-black rounded-full px-8 py-4 text-base font-medium transition-all duration-300 w-fit group'
                 >
                   <Download className='w-5 h-5 group-hover:translate-y-0.5 group-active:translate-y-0.5 transition-transform duration-300' />
-                  Download Resume
+                <a href="https://drive.google.com/uc?export=download&id=1GEo_9JFIWrksp4mUET2lNwjCqbNNPxqZ">  Download Resume</a>
                 </button>
               </FadeIn>
             </div>

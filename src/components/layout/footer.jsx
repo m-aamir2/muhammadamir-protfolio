@@ -57,7 +57,7 @@ const footer = () => {
                                         </span>
                                     </div>
                                     <p className='text-white/50 text-sm leading-relaxed'>
-                                        Senior Frontend Developer building clean, scalable, and high-performance interfaces with React, Next.js, and TypeScript.
+                                         Frontend Developer building clean, scalable, and high-performance interfaces with React, Next.js, and TypeScript.
                                     </p>
                                     <div className='flex items-center gap-4 pt-2'>
                                         {socialLinks.map((link, index) => {

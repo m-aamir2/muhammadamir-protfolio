@@ -45,7 +45,7 @@ const Hero = () => {
                 </FadeIn>
                 <FadeIn delay={200}>
                   <p className='text-lg text-white/70 max-w-[550px] mb-8'>
-                    Senior Frontend Developer with 1 year of experience building clean, scalable, and high-performance user interfaces with React, Next.js, and TypeScript. I turn Figma designs into pixel-perfect, responsive, and accessible code that drives real business results.
+                    Frontend Developer with 1 year of experience building clean, scalable, and high-performance user interfaces with React, Next.js, and TypeScript. I turn Figma designs into pixel-perfect, responsive, and accessible code that drives real business results.
                   </p>
                 </FadeIn>
                 <FadeIn delay={300}>

@@ -1,11 +1,11 @@
 export const PERSONAL_INFO = {
     name: 'Muhammad Aamir',
-    title: 'Senior Frontend Developer',
+    title: 'Frontend Developer',
     email: 'aamirhabib039@gmail.com',
     phone: '+92 300-8715456',
     location: 'Bahawalpur, Pakistan',
     taglines: 'Crafting fast, responsive, and pixel-perfect user interfaces with modern frontend technologies',
-    resume: '#AAMIR',
+    resume: 'https://drive.google.com/uc?export=download&id=1GEo_9JFIWrksp4mUET2lNwjCqbNNPxqZ',
     bio: [
         "I'm Muhammad Aamir, a Software Engineering graduate from The Islamia University of Bahawalpur and a results-driven Front-End Web Developer. Through freelancing, I have delivered 10+ successful projects for clients across different countries, transforming ideas and designs into polished, responsive digital experiences.",
         "I bring hands-on experience in REST API integration and a solid foundation in back-end development, which helps me build frontend solutions that are not only visually refined but also clean, efficient, and well-structured. My focus is on fast, scalable, user-friendly interfaces that create real value for every client."

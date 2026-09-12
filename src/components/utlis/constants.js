@@ -13,7 +13,7 @@ export const PERSONAL_INFO = {
 };
 
 export const SOCIAL_LINKS = {
-    linkedin: 'https://www.linkedin.com/in/aamir-khan-a198ba410',
+     linkedin: 'https://www.linkedin.com/in/aamir-habib-a198ba410',
     github: 'https://github.com/m-aamir2',
     upwork: 'https://www.upwork.com/freelancers/~017235c0912ceb44cf',
     email: 'mailto:aamirhabib039@gmail.com'
